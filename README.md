@@ -1,7 +1,10 @@
 # cat-photo-app
 <!DOCTYPE html>
 <html>
+  <head>
 <h2>CatPhotoApp</h2>
+  </head>
+  <body>
 <main>
   <p>Click here to view more <a href="#">cat photos</a>.</p>
   
@@ -29,4 +32,5 @@
     <button type="submit">Submit</button>
   </form>
 </main>
+</body>
 </html>
