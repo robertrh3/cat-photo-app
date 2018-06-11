@@ -17,5 +17,8 @@
     <li>thunder</li>
     <li>other cats</li>
   </ol>
-  <input type="text" placeholder="cat photo URL">
-<main>
+  <form action="/submit-cat-photo">
+    <input type="text" placeholder="cat photo URL">
+    <button type="submit">Submit</button>
+  </form>
+</main>
